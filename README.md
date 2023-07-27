@@ -1,4 +1,4 @@
-# hr-data-analysis-using-powerbi-and-sql-
+# HR-data-analysis-using-powerbi-and-sql-
 
 ## Data Used
 
